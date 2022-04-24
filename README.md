@@ -1,6 +1,6 @@
-# rpl
+# Project Mk RPL Kelompok 4
 
-A new Flutter project.
+Flutter project Aplikasi Antrian.
 
 ## Getting Started
 
